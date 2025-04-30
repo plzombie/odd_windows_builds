@@ -1,0 +1,6 @@
+[submodule "djvulibre"]
+	path = djvulibre
+	url = https://github.com/barak/djvulibre
+[submodule "djview4_woa"]
+	path = djview4_woa
+	url = https://github.com/plzombie/djview4_woa
